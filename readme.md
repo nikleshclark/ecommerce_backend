@@ -217,7 +217,7 @@ Special thanks to:
 ### 📧 Contact
 
 For questions or feedback, feel free to reach out:
-- **Email**: nallapaneni.niklesh.com
+- **Email**: nallapaneni.niklesh@gmail.com
 - **GitHub**: [nikleshclark](https://github.com/nikleshclark)
 
 ---
