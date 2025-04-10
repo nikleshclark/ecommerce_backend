@@ -2,7 +2,7 @@
 
 Welcome to the **E-Commerce Backend** project! This is a robust and scalable backend system built with **Django** and **Django REST Framework** to support an e-commerce platform. It includes features for user authentication, product catalog management, order processing, and more.
 
-![E-Commerce Backend](https://via.placeholder.com/1000x300?text=E-Commerce+Backend)
+![E-Commerce Backend](https://img.freepik.com/free-photo/shopping-concept-close-up-portrait-young-beautiful-attractive-redhair-girl-smiling-looking-camera_1258-119090.jpg?t=st=1744315927~exp=1744319527~hmac=bd887274e772e49f82a21f91ce7e37dbd373bce3b7156d86ee65f02d7cd407f5&w=1380)
 
 ---
 
